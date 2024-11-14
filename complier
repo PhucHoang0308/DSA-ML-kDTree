@@ -1,0 +1,2 @@
+g++ -o main main.cpp kDTree.cpp Dataset.o -I . -std=c++11
+g++ -o main main.cpp kDTree.cpp -I . -std=c++11
